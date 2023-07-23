@@ -24,4 +24,5 @@
 
 ### Projects
 Coffee sales Interactive Dashboard using Excel.
+
 ![Dashboard Image](image.jpg)https://github.com/Abdi-dhuux/Portfolio/blob/main/Images/coffe%20sales%20dashboard.JPG
